@@ -1,0 +1,28 @@
+# Instructions for Running the Application
+
+## First Run:
+
+1. Install Dependencies:
+   Open your terminal and navigate to the project directory, then run:
+   pip install -r requirements.txt
+
+2. Run the Application:
+   After the dependencies are installed, run the application with:
+   python main.py
+
+## Subsequent Runs:
+
+To run the application again after the initial setup, simply execute:
+python main.py
+
+## How to Use the Application:
+
+1. Typing:
+   - To type a character, position your index and middle fingers to create a "V" shape.
+   - When the "V" is closed (fingers together), the key below your fingers will be typed.
+
+2. Backspace:
+   - Press the key labeled "-" to delete the last typed character.
+
+3. Close the Window:
+   - Press the ESC key to close the application window.
